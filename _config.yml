@@ -1,17 +1,19 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
+title:               KK的自留地.
+tagline:             'Expect the unexpected，and whenever possible,be the unexpected'
+description:         '互联网产品经理，主要负责广告系统以及2B类产品。读书偏向于历史、思维、投资方面，吉他入门水平，Crossfit爱好者'
+url:                 'http://daoism-kk.github.io'
 baseurl:             ''
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              kai kang
+  url:               https://twitter.com/
+  email:             kstzyy@gmail.com
+
+paginate:            5
 
 # Permalinks
 
