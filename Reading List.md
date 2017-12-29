@@ -3,14 +3,11 @@ layout: page
 title: Reading List
 ---
 
-## June
+## January
 
-* 《反脆弱》——重读
-* 《Seeking Wisdom》
-* 《Beyond Feelings》
+* 《Principles by Ray Dalio》
+* 《Choose Yourself》
+* 《Beat the street》
 
-## July
-* 《choose yourself》
-* 《Deep work》
-* 《象与骑象人》
-* 《一路向前》
+
+
