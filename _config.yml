@@ -4,7 +4,7 @@
 title:               KK的自留地
 tagline:             'Expect the unexpected,and whenever possible,be the unexpected'
 description:         '互联网产品经理，主要负责广告系统以及2B类产品。读书偏向于历史、思维、投资方面，吉他入门水平，Crossfit爱好者'
-url:                 'http://daoism-kk.github.io'
+url:                 'http://daoism.me'
 baseurl:             ''
 
 # About/contact
@@ -46,8 +46,13 @@ version:             0.0.6
 # Exclusions from the final site
 exclude: [optional, vendor]
 
+# RSS Settings
 
-#podcast seetings
+rss_path: /feed
+rss_name: index.xml
+rss_post_limit: 10
+
+#podcast settings
 podcast_url: http://www.daoism.me/podcast
 podcast_album_art: /assets/podcast_picture.jpg
 podcast_title: 文化中国月旦谈
