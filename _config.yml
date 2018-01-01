@@ -55,7 +55,7 @@ rss_post_limit: 10
 #podcast settings
 podcast_url: http://www.daoism.me/podcast
 podcast_album_art: /assets/podcast_picture.jpg
-podcast_title: 文化中国月旦谈
+podcast_title: monthly talking with Renaissance man
 podcast_owner: kai kang
 podcast_email: kstzyy@gmail.com
 podcast_category: Society & Culture
