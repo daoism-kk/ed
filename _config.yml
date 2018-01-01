@@ -52,19 +52,21 @@ rss_path: /feed
 rss_name: index.xml
 rss_post_limit: 10
 
-#podcast settings
-podcast_url: http://www.daoism.me/podcast
-podcast_album_art: /assets/picture.jpg
-podcast_title: monthly talking with Renaissance man
-podcast_owner: kai kang
-podcast_email: kstzyy@gmail.com
-podcast_category: Society & Culture
-podcast_subcategory_one: Philosophy
-podcast_subcategory_two: Personal Journals
-podcast_explicit: "no"
-podcast_author: kai kang
-podcast_description:  探讨接地气的话题，让文化中国人的观点和看法得到沉淀。
-podcast_summary: 通过职业/生活/读书等多方面的话题，在实际中促进文化中国人的思考和交流
+
+# Add this section to your _config.yml
+# You may ignore information you already have
+# like title, url and such
+#####################################
+
+# Podcast Feed Settings
+
+title:          monthly talking with Renaissance man
+email:          kstzyy@gmail.com
+description:    "探讨接地气的话题，让文化中国人的观点和看法得到沉淀。"
+subtitle:       "通过职业/生活/读书等多方面的话题，在实际中促进文化中国人的思考和交流"
+url:            www.daoism.me/Podcast         
+author:         kaikang
+copyright:      "&#x2117; &amp; &#xA9; 2015"
 
 
 
