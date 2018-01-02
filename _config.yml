@@ -64,8 +64,8 @@ rss_post_limit: 10
 email:          kstzyy@gmail.com
 description:    "探讨接地气的话题，让文化中国人的观点和看法得到沉淀。"
 subtitle:       "通过职业/生活/读书等多方面的话题，在实际中促进文化中国人的思考和交流"
-url:            www.daoism.me
-language:       Chinese       
+url:            https://www.daoism.me
+language:       zh      
 author:         kaikang
 copyright:      "&#x2117; &amp; &#xA9; 2015"
 
